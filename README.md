@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarath
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning Python
+- 💻working on Data Analyst
+- 🌱 learning AI
 - 💞️ I’m looking to collaborate on Data science
 - 📫 How to reach me palleti.sarath@gmail.com
 
