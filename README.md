@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarath
-- 💻working on Frappe ERP admin and  Data Analyst
+- 💻working as Frappe ERP admin and  Data Analyst
 - 🌱 learning AI
 - 💞️ I’m looking to collaborate on Data science
 - 📫 How to reach me palleti.sarath@gmail.com
